@@ -1,3 +1,8 @@
+![picture](https://github.com/Ahad1996/Classification_Project/blob/main/stroke-boehringer-what-is-stroke-icon-1.png?raw=true)
+
+***Stroke Prediction and Data Visualization with Machine Learning***
+
+
 **Introduction**
 
 Nowadays, stroke is a major health-related challenge
