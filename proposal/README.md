@@ -43,6 +43,12 @@ XGB Classifier
 2. Who is more likely to have a stroke male or female?
 3. Is smoking a cause of stroke?
 
+## **Team members:**
+ - [ ] [Ahad Safer Almutairi](https://github.com/Ahad1996)
+
+ - [ ] [rayan abdulaziz almowaina](https://github.com/rayanabdulaziz)
+
+ - [ ]  [Abdulsalam Saeed Alqarni](https://github.com/AbdulsalamAlqrni)
 
 
 
